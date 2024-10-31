@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 SHOW PAPAI</h1>
+<h1 align="left">SHOW PAPAI</h1>
 
 ###
 
